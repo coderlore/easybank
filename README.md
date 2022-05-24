@@ -10,4 +10,4 @@ Built with
 
 Live Demo
 ------
-[EasyCoin](https://coderlore.github.io/weather-app/)
+[EasyCoin](https://easycoin.netlify.app/)
